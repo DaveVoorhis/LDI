@@ -14,4 +14,8 @@ hs_err_pid*
 
 /.idea/
 */target/
+*/data/
 
+out.sxe
+
+/Silt/dependency-reduced-pom.xml

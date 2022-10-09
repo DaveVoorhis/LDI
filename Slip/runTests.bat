@@ -1,1 +1,1 @@
-java -classpath ./bin Slip < test01.sli
+java -jar target\org.reldb*.jar < test01.sli

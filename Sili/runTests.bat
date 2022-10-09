@@ -1,14 +1,14 @@
-java -classpath ./bin Sili < test01.sil
-java -classpath ./bin Sili < test02.sil
-java -classpath ./bin Sili < test03.sil
-java -classpath ./bin Sili < test04.sil
-java -classpath ./bin Sili < test05.sil
-java -classpath ./bin Sili < test06.sil
-java -classpath ./bin Sili < test07.sil
-java -classpath ./bin Sili < test08.sil
-java -classpath ./bin Sili < test09.sil
-java -classpath ./bin Sili < test10.sil
-java -classpath ./bin Sili < test11.sil
-java -classpath ./bin Sili < test12.sil
-java -classpath ./bin Sili < test13.sil
-java -classpath ./bin Sili < test14.sil
+java -jar target\org.reldb*.jar < test01.sil
+java -jar target\org.reldb*.jar < test02.sil
+java -jar target\org.reldb*.jar < test03.sil
+java -jar target\org.reldb*.jar < test04.sil
+java -jar target\org.reldb*.jar < test05.sil
+java -jar target\org.reldb*.jar < test06.sil
+java -jar target\org.reldb*.jar < test07.sil
+java -jar target\org.reldb*.jar < test08.sil
+java -jar target\org.reldb*.jar < test09.sil
+java -jar target\org.reldb*.jar < test10.sil
+java -jar target\org.reldb*.jar < test11.sil
+java -jar target\org.reldb*.jar < test12.sil
+java -jar target\org.reldb*.jar < test13.sil
+java -jar target\org.reldb*.jar < test14.sil
